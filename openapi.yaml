@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Data Lake Mapping API
+  title: Mapping API
   description: |
     OpenAPI specification for the Data Lake ID Mapping system.
 
