@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: Mapping API
   description: |
-    OpenAPI specification for the Data Lake ID Mapping system.
+    OpenAPI specification for the ID Mapping system.
 
     The API allows translating entity IDs between different data providers
     (Transfermarkt, Wyscout, StatsBomb, SkillCorner, Capology, Impect, etc.)
